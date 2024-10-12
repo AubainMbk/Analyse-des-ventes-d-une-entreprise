@@ -99,6 +99,7 @@ o	Potentiellement une concurrence plus forte ou une campagne marketing moins eff
   o	Cross-sell et up-sell : Proposer des offres combinées (par exemple, smartphones + accessoires), ou des options de mise à jour pour les clients existants.
   
   o	Analyse approfondie du profil des clients à San Francisco (âge, sexe, habitudes d’achat) pour créer des campagnes encore plus personnalisées.
+  
   Pour Austin :
   
   1.	Analyser les causes :
