@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Une société de smartphone et de gadgets nous a sollicité pour améliorer son business. Cette société nous a remis 12 fichiers csv représentant chacun les ventes mensuelles d’un mois de l’année. Elle nous a posé les questions suivantes : 
+Une société de smartphone et de gadgets nous a sollicités pour améliorer son business. Cette société nous a remis 12 fichiers csv représentant chacun les ventes mensuelles d’un mois de l’année. Elle nous a posé les questions suivantes : 
 
 -	Quel est le mois durant lequel nous avons réalisé le meilleur chiffre d’affaires ?
 
