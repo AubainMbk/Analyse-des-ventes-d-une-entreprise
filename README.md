@@ -161,11 +161,15 @@ Optimisation des ventes pendant les heures de faible activité :
 •	Renforcer les ventes après 21h : Étant donné que les ventes commencent à diminuer après 21h, il serait intéressant d'introduire des promotions de nuit ou des offres exclusives pour inciter les achats pendant ces heures plus calmes. Cela pourrait être une opportunité d'utiliser des campagnes de retargeting pour rappeler aux clients leurs paniers abandonnés ou leur offrir des réductions temporaires valides uniquement la nuit.
 
 •	Inciter les achats matinaux : Bien que les ventes augmentent progressivement à partir de 9h, il est possible de tester des offres "Early Bird" (matinales) pour encourager les clients à acheter plus tôt dans la journée. Une campagne promotionnelle entre 7h et 9h pourrait stimuler les commandes avant le pic de la matinée.
+
 Planification des ressources et logistique :
 
-•	Gestion des stocks : Les données montrent clairement qu'il y a des pics de vente importants à certains moments de la journée, en particulier à 11h-13h et à 19h. Il est crucial d’assurer que les stocks soient suffisants pendant ces périodes pour éviter les ruptures et maximiser les ventes. Optimiser les chaînes d'approvisionnement pour ces créneaux horaires peut permettre de maintenir un bon service client.
+•	Gestion des stocks : Les données montrent clairement qu'il y a des pics de vente importants à certains moments de la journée, en particulier à 11h-13h et à 19h. Il est crucial d’assurer que les stocks soient suffisants pendant ces périodes pour éviter les ruptures et maximiser les ventes. 
+
+Optimiser les chaînes d'approvisionnement pour ces créneaux horaires peut permettre de maintenir un bon service client.
 
 •	Service client et traitement des commandes : Il serait également pertinent de planifier une augmentation des effectifs du service client et une accélération du traitement des commandes pendant les périodes de forte affluence (11h-13h et après 17h). Cela garantit que les commandes sont traitées rapidement, réduisant les délais d’expédition et augmentant la satisfaction des clients.
+
 Segmentation et personnalisation des offres :
 
 •	Personnaliser les offres selon les habitudes d'achat : Utiliser les données d’achat horaires pour segmenter les clients et leur proposer des offres personnalisées en fonction de leur comportement d’achat. Par exemple, ceux qui achètent souvent entre 19h et 20h pourraient recevoir des notifications d'offres spéciales avant cette période.
