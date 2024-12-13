@@ -254,6 +254,7 @@ o	Promotions : Organiser des promotions sur ces accessoires lorsqu'ils sont ache
 ## Opportunités marketing pour des produits spécifiques
 
 •	Les écouteurs comme les Apple AirPods, les Bose SoundSport, et les Wired Headphones se vendent également fréquemment ensemble ou en quantités importantes.
+
 Insights :
 
 o	Ces produits sont des accessoires très populaires qui, en raison de leur nature portable et de leur importance pour l'expérience utilisateur, pourraient bénéficier de campagnes ciblées.
@@ -271,6 +272,7 @@ o	Partenariats : Envisager des partenariats ou des packs exclusifs avec des fabr
 ## Événements saisonniers et campagnes de bundles
 
 •	Les accessoires tels que les câbles de charge, batteries et écouteurs sont des cadeaux parfaits pour des événements saisonniers comme Noël, où les consommateurs recherchent des produits abordables à offrir.
+
 Actions :
 
 o	Campagnes pour les fêtes : Proposer des bundles d'accessoires électroniques pour les périodes de fêtes.
